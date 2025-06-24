@@ -18,7 +18,6 @@ Check out the live demo here:
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!  
-Feel free to check the [issues page](https://github.com/gaurav110601/jquery-form-validation/issues).
 
 ---
 
