@@ -1,6 +1,6 @@
 # jQuery Form Validation
 
-A simple and lightweight jQuery-based form validation plugin to help you easily validate form inputs on the client side.
+A simple and lightweight jQuery-based form validation project with listing to help you easily validate form inputs on the client side.
 
 ## Demo
 
@@ -14,6 +14,7 @@ Check out the live demo here:
 - Customizable validation rules
 - User-friendly error messages
 - Lightweight and dependency only on jQuery
+- Listings
 
 ## Contributing
 
